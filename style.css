@@ -1,0 +1,100 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  margin: 0;
+  font-size: 28px;
+  background-color: lightslategrey;
+  padding: 0px;
+  text-align: center;
+}
+
+.header {
+  background-color: #f1f1f1;
+
+  text-align: center;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.content {
+  padding: 16px;
+}
+
+#home {
+  padding-top: 200px;
+  padding-bottom: 450px;
+}
+
+.custom-header {
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 2;
+}
+
+#WorkSection {
+  padding-top: 80px;
+}
+
+#work {
+  height: 54rem;
+  color: white;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.workimg {
+  padding-top: 60px;
+  width: 500px;
+  border-width: 50%;
+  overflow-y: hidden;
+}
+
+.carousel-caption {
+  position: relative;
+  left: auto;
+  right: auto;
+  padding: 50px 200px
+}
+
+#Education {
+  padding-top: 300px;
+  padding-bottom: 400px;
+}
+#AboutMeSection {
+  height: 1000px;
+  padding: 250px;
+}
+#aboutme {
+  height: 54rem;
+  color: white;
+  width: 100%;
+}
+
+.valorant {
+  height:300px;
+  width:450px;
+}
+#footer {
+  color: white;
+  text-align: center;
+  padding: 30px 100px;
+  line-height: 4;
+}
+
+.footericons {
+  padding: 30px 10px;
+  color:white;
+}
+
+.copyright {
+  padding: 20px 0 10px;
+  font-size: 2rem;
+}
